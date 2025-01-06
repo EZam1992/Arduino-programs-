@@ -1,1 +1,1 @@
-# Arduino-programs
+# Simon game developed for Atmega microcontroller
